@@ -14,7 +14,7 @@ Welcome to DreamHomes, where your dream property is just a click away! Built wit
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/dreamhomes.git
+   git clone https://github.com/re-sohail/LamaEstate-Real-Estate-Weibsite/
    ```
 2. **Install Dependencies:**
    ```bash
