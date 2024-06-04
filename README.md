@@ -1,6 +1,6 @@
-# Welcome to DreamHomes 🏡
+# Welcome to LamaEstate 🏡
 
-Welcome to DreamHomes, where your dream property is just a click away! Built with React, this website offers a smooth and enjoyable browsing experience. Here's what you can do:
+Welcome to LamaEstate Website Source Code, where your dream property is just a click away! Built with React, this website offers a smooth and enjoyable browsing experience. Here's what you can do:
 
 ## What You Can Do
 
